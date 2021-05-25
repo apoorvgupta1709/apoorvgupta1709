@@ -1,16 +1,36 @@
-### Hi there 👋
+# Apoorv1709
 
-<!--
-**apoorvgupta1709/apoorvgupta1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I am  Apoorv👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Flutter and React Native
+- 🌱 I’m currently learning Backend Development
+- 👯 I’m looking to collaborate on Android projects
+- 💬 Ask me about Native Android
+- 📫 How to reach me: apoorvgupta1709@gmail.com
+- ⚡ Fun fact: Breaking Bad is my favourite TV show of all time !
+
+
+[![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvgupta1709&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvgupta1709&layout=compact&hide=makefile,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=Aryan6290)
+
+
+
+
+
+
+<i>Follow me:</i><br>
+
+<a href="https://linkedin.com/in/apoorv-gupta-298825185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/apoorv_gupta17/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
