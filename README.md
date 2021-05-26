@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Android projects
 - 💬 Ask me about Native Android
 - 📫 How to reach me: apoorvgupta1709@gmail.com
-- ⚡ Fun fact: Breaking Bad is my favourite TV show of all time !
+- ⚡ Fun fact: F.R.I.E.N.D.S is my favourite TV show of all time !
 
 
 [![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvgupta1709&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
