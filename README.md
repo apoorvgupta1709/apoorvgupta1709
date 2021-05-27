@@ -1,7 +1,7 @@
 ### Hi there, I am  Apoorv👋
 
 
-- 🔭 I’m currently working on Flutter and React Native
+- 🔭 I’m currently working on Java Web Development and cloud
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on Android projects
 - 💬 Ask me about Native Android
