@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Java Web Development
 - 🌱 I’m currently learning Backend Development
-- 👯 I’m looking to collaborate on Android projects
+- 👯 I’m looking to collaborate on Web projects
 - 💬 Ask me about Native Android
 - 📫 How to reach me: apoorvgupta1709@gmail.com
 - ⚡ Fun fact: F.R.I.E.N.D.S is my favourite TV show of all time !
